@@ -5,31 +5,31 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b495e858f006b2b19bcd3afc41f1a610:37bd595f477a87700e576ec0d219668c
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N71ZX0d6h3AOV27A0hlmjA", "kid":"tJXoWPAGsrGbzTr8QfGmEA" } ], "type":"temporary" }
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-4b11-571a-8e4d-23fb37be426f/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=706f19fd3dd77ced979907f4a61aab10:e0d465dc83f8002a5adafc4c9fc166c9 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4NRl3IP4ACpa2vxMn8FmyQ", "kid":"cG8Z/T3XfO2XmQf0phqrEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="xx"  tvg-name="Bisik Pada Allah 2017 " group-title="VOD" tvg-logo="https://iili.io/GSD7Vf.jpg",Bisik Pada Allah 2017 
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/c66f9af5-45b3-52ca-8739-2866879f98a2/default_primary.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=5ba810da4d38ad4d88c1bc8b3df4b510:88b7592dae4f8c3cbde6fc893d7d6f5f 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iLdZLa5PjDy95vyJPX1vXw", "kid":"W6gQ2k04rU2IwbyLPfS1EA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="xx" tvg-name="Kontena Ana" group-title="VOD" tvg-logo="https://iili.io/GSD5oG.jpg",Kontena Ana 
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/09bdbc94-cae6-5e89-b7cd-d5ef74449213/default_primary.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7f555a085d110c3f344950bb83024910:f3d22ef461b6b3689b4acd86fe9e26f5 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"89Iu9GG2s2ibSs2G/p4m9Q", "kid":"f1VaCF0RDD80SVC7gwJJEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="xx" tvg-name="Pelepas Saka" group-title="VOD" tvg-logo="https://iili.io/GSDYP4.jpg",Pelepas Saka 
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/47f91a38-ca92-590d-b26c-a93cfdaa3a3a/default_primary.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c80b60472992e8efa7c16461fa7d8a10:46da930cdacce148224d61c932aa0d30
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RtqTDNrM4UgiTWHJMqoNMA", "kid":"yAtgRymS6O+nwWRh+n2KEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="xx" tvg-name="Inayah" group-title="VOD" tvg-logo="https://iili.io/GSDAts.jpg",Inayah 
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/155c2509-4c48-50a1-b14a-ce2a2133d692/default_primary.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=b782a54a96534f4bf05fddf90e701710:ba3ec498a3eb4317a915984878d26dcd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uj7EmKPrQxepFZhIeNJtzQ", "kid":"t4KlSpZTT0vwX935DnAXEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="xx" tvg-name="Jongkong" group-title="VOD" tvg-logo="https://iili.io/GSDcKl.jpg",Jongkong 
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/6837eb1a-6224-5a29-af4c-5471067bc524/default_primary.mpd 
 
